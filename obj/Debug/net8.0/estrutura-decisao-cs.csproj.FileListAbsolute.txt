@@ -1,0 +1,14 @@
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\bin\Debug\net8.0\estrutura-decisao-cs.exe
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\bin\Debug\net8.0\estrutura-decisao-cs.deps.json
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\bin\Debug\net8.0\estrutura-decisao-cs.runtimeconfig.json
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\bin\Debug\net8.0\estrutura-decisao-cs.dll
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\bin\Debug\net8.0\estrutura-decisao-cs.pdb
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\estrutura-decisao-cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\estrutura-decisao-cs.AssemblyInfoInputs.cache
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\estrutura-decisao-cs.AssemblyInfo.cs
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\estrutura-decisao-cs.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\estrutura-decisao-cs.dll
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\refint\estrutura-decisao-cs.dll
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\estrutura-decisao-cs.pdb
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\estrutura-decisao-cs.genruntimeconfig.cache
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\ref\estrutura-decisao-cs.dll

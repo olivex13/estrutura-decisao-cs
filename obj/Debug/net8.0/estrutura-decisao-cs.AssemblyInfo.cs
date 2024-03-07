@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("estrutura-decisao-cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27bbe6888dfeb348facdd2956c4ed17dec261bf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("estrutura-decisao-cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("estrutura-decisao-cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

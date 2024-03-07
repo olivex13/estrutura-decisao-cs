@@ -12,3 +12,4 @@ C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\
 C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\estrutura-decisao-cs.pdb
 C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\estrutura-decisao-cs.genruntimeconfig.cache
 C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\ref\estrutura-decisao-cs.dll
+C:\Users\silva\OneDrive\Área de Trabalho\estrutura-decisao-cs\obj\Debug\net8.0\estrutura-decisao-cs.sourcelink.json
